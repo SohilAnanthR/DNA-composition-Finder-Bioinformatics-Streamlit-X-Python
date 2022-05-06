@@ -1,8 +1,6 @@
 import altair as alt
 import pandas as pd
 import streamlit as st
-import matplotlib.pyplot as plt
-import plotly.figure_factory as ff
 import numpy as np
 
 

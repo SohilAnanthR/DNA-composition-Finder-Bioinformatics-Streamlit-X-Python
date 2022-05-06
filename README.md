@@ -9,3 +9,4 @@ To run this code you need streamlit installed in your pc, It can be simply insta
 There are someother prerequisites like importing pandas and numpy.
 
 This is a very good starter project for UG Bioinformaticians.
+Contact - sohilananth109@gmail.com
